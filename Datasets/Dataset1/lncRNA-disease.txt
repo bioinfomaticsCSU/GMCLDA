@@ -1,0 +1,621 @@
+116HG	Prader-Willi syndrome
+1B FGF-AS	endometriosis
+51A	Alzheimer's disease
+7SK	AIDS
+7SK	cancer
+7SK	cardiac hypertrophy
+7SK	gastric cancer
+7SL	AIDS
+7SL	dermatomyositis
+7SL	Leishmania
+7SL	polymyositis
+AB074278	bladder cancer
+AC002511.1	enterovirus 72 infection
+AC006050.3-003	lung squamous carcinoma
+ACTA2-AS1	lung adenocarcinoma
+ADAMTS9-AS2	glioma
+AF086415	nasopharyngeal carcinoma
+AFAP1-AS1	barrett's Esophagus
+AIR	alcoholic liver disease
+AIR	chronic nonalcoholic liver disease
+AIR	hepatocellular carcinoma
+AK023948	papillary thyroid carcinoma
+AK056098	nasopharyngeal carcinoma
+AK095147	nasopharyngeal carcinoma
+AK294004	nasopharyngeal carcinoma
+Alg2	ischemia/reperfusion
+Alu	Macular degeneration
+anti-NOS2A	glioblastoma
+anti-NOS2A	Meningioma
+AP000688.29	enterovirus 71 infection
+AP5M1	nasopharyngeal carcinoma
+Arid2-IR	renal inflammation
+Asb3	cardiovascular and renal disease
+ASFMR1	fragile X syndrome
+ASFMR1	Fragile X-associated tremor and ataxia syndrome
+ATP6V1G2-DDX39B	dilated cardiomyopathy
+ATP6V1G2-DDX39B	HCV
+ATXN8OS	spinocerebellar ataxia type 8
+BACE1-AS	Alzheimer's disease
+BACE1-AS	Inclusion body myositis
+BANCR	melanoma
+BANCR	non-small cell lung cancer
+BC040587	osteosarcoma
+BCAR4	breast cancer
+BCYRN1	aging
+BCYRN1	Alzheimer's disease
+BCYRN1	breast cancer
+BCYRN1	cervical cancer
+BCYRN1	lung cancer
+BCYRN1	esophagus cancer
+BCYRN1	ovarian cancer
+BCYRN1	parotid cancer
+BCYRN1	tongue cancer
+BDNF-AS1	depression
+BDNF-AS1	Huntington's disease
+BDNF-AS1	psychiatric disease
+BDNF-AS1	Schizophrenia
+BDNF-AS1	obesity
+BLACAT1	bladder cancer
+BOK-AS1	cancer
+BOK-AS1	testicular cancer
+BPESC1	blepharophimosis syndrome
+BX118339	West Syndrome
+C15orf2	Angelman syndrome
+C15orf2	Prader-Willi syndrome
+C1QTNF9B-AS1	prostate
+CASC2	endometrial cancer
+CBR3-AS1	carcinoma
+CBR3-AS1	prostate
+CCAT1	colorectal cancer
+CCAT1	gastric cancer
+CCAT2	breast cancer
+CCAT2	non-small cell lung cancer
+CCDC26	glioma
+CCND1	tumor
+CCND1	TLS-associated pathological states
+CDKN2B-AS1	endometriosis
+CDKN2B-AS1	abdominal aortic aneurysm
+CDKN2B-AS1	acute myocardial infarction
+CDKN2B-AS1	acute lymphoblastic leukemia
+CDKN2B-AS1	Alzheimer's disease
+CDKN2B-AS1	aortic aneurysm
+CDKN2B-AS1	atherosclerosis
+CDKN2B-AS1	basal cell carcinoma
+CDKN2B-AS1	breast cancer
+CDKN2B-AS1	cancer
+CDKN2B-AS1	cardiovascular disease
+CDKN2B-AS1	coronary artery disease
+CDKN2B-AS1	coronary disease
+CDKN2B-AS1	coronary heart disease
+CDKN2B-AS1	Diabetes
+CDKN2B-AS1	Esophageal squamous cell carcinoma
+CDKN2B-AS1	familial and sporadic intracranial aneurysms
+CDKN2B-AS1	gastric cancer
+CDKN2B-AS1	Glaucoma
+CDKN2B-AS1	glioma
+CDKN2B-AS1	hereditary cutaneous malignant melanoma
+CDKN2B-AS1	intracranial aneurysm
+CDKN2B-AS1	ischemic stroke
+CDKN2B-AS1	leukemia
+CDKN2B-AS1	melanoma
+CDKN2B-AS1	myocardial infarction
+CDKN2B-AS1	nasopharyngeal carcinoma
+CDKN2B-AS1	neural system tumors syndrome
+CDKN2B-AS1	Neurofibromatosis type 1
+CDKN2B-AS1	periodontitis
+CDKN2B-AS1	peripheral artery disease
+CDKN2B-AS1	Plexiform neurofibroma
+CDKN2B-AS1	prostate
+CDKN2B-AS1	Stroke
+CDKN2B-AS1	tumor
+CDKN2B-AS1	type 2 Diabetes
+CDKN2B-AS1	neuroblastoma
+CECR3	cat eye syndrome
+CECR9	cat eye syndrome
+Chac2	cardiovascular and renal disease
+CHL1-AS2	adolescent idiopathic scoliosis
+CHRF	cardiac hypertrophy
+CRNDE	colorectal cancer
+CTBP1-AS	Polycystic Ovary Syndrome
+CTBP1-AS	prostate
+D4Z4	Facioscapulohumeral muscular dystrophy
+DANCR	bone diseases
+DANCR	postmenopausal osteoporosis
+DAOA-AS1	bipolar disorder
+DAOA-AS1	panic disorder
+DAOA-AS1	Schizophrenia
+DAPK1	Pancreatic ductal adenocarcinoma
+DBE-T	Facioscapulohumeral muscular dystrophy
+DGCR5	DiGeorge syndrome
+DGCR5	Huntington's disease
+DGCR5	velocardiofacial syndrome
+DISC2	affective disorders
+DISC2	Autism spectrum disorder
+DISC2	bipolar disorder
+DISC2	depression
+DISC2	Major depression
+DISC2	Schizophrenia
+DLEU1	chronic lymphocytic leukemia
+DLEU2	chronic lymphocytic leukemia
+DLEU2	lymphocytic leukemia
+DLEU2	lymphoma
+DLEU2	myeloma
+DLG2AS	Schizophrenia
+DLX6-AS1	Split Hand/Split Foot malformation disorder
+DMPK	myotonic dystrophy type 1
+DMPK	Heart Failure
+DNM3OS	ovarian cancer
+DQ786243	Crohn's disease
+DRAIC	prostate cancer
+DRAIC	bladder cancer
+DRAIC	low-grade gliomas
+DRAIC	lung adenocarcinoma
+DRAIC	stomach adenocarcinoma
+DRAIC	renal clear cell carcinoma
+DRAIC	hepatocellular carcinoma
+DRAIC	skin melanoma
+DSCAM-AS1	adolescent idiopathic scoliosis
+DSCAM-AS1	breast cancer
+ENSG00000135253.9	Hereditary Hemorrhagic Telangiectasia
+ENSG00000147753.5	Hereditary Hemorrhagic Telangiectasia
+ENSG00000196096.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000197251.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000203325.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000206129.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000215231.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000215374.4	Hereditary Hemorrhagic Telangiectasia
+ENSG00000215808.2	Hereditary Hemorrhagic Telangiectasia
+ENSG00000226496.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000229563.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000230133.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000230544.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000231133.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000231185.2	Hereditary Hemorrhagic Telangiectasia
+ENSG00000232021.2	Hereditary Hemorrhagic Telangiectasia
+ENSG00000232046.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000232956.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000233154.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000233251.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000235285.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000237036.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000237548.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000240453.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000241269.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000245910.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000248176.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000249364.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000249772.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000250195.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000250608.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000254154.3	Hereditary Hemorrhagic Telangiectasia
+ENSG00000255471.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000256218.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000259150.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000259334.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000259484.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000259758.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000263753.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000264772.1	Hereditary Hemorrhagic Telangiectasia
+ENSG00000266952.1	Hereditary Hemorrhagic Telangiectasia
+ENST00000480739	Pancreatic ductal adenocarcinoma
+ENST00000513542	Ventricular septal defects
+EPB41L4A-AS1	cancer
+ESCCAL-1	Esophageal squamous cell carcinoma
+ESCCAL-5	Esophageal squamous cell carcinoma
+ESRG	embryonal carcinoma
+ESRG	intracranial aneurysm
+FADS1	lipid metabolism disorder
+Fendrr	Heart Failure
+FGF10-AS1	Ventricular septal defects
+FMR5	fragile X syndrome
+FMR5	Fragile X-associated tremor and ataxia syndrome
+FMR6	fragile X syndrome
+FMR6	Fragile X-associated tremor and ataxia syndrome
+GAPLINC	gastric cancer
+GAS5	autoimmune disease
+GAS5	B-cell neoplasms
+GAS5	breast cancer
+GAS5	cancer
+GAS5	kidney cancer
+GAS5	lymphoma
+GAS5	melanoma
+GAS5	prostate
+GAS5	systemic lupus erythematosus
+GAS5	tumor
+GDNFOS	Alzheimer's disease
+GHET1	gastric cancer
+GNAS-AS1	pseudohypoparathyroidism type Ib
+H19	adrenocortical carcinomas
+H19	atherosclerosis
+H19	Beckwith-Wiedemann syndrome
+H19	biparental complete hydatidiform moles
+H19	bladder cancer
+H19	breast cancer
+H19	cancer
+H19	cervical cancer
+H19	choriocarcinoma
+H19	chronic myeloproliferative disorders
+H19	colon cancer
+H19	Congenital hyperinsulinism
+H19	Esophageal squamous cell carcinoma
+H19	gastric cancer
+H19	germ cell tumor
+H19	gestational choriocarcinoma
+H19	gestational trophoblastic diseases
+H19	glioblastoma
+H19	glioma
+H19	growth restriction
+H19	hematopoiesis
+H19	hepatocellular carcinoma
+H19	hyperhomocysteinemia
+H19	infertility
+H19	kidney cancer
+H19	liver cancer
+H19	lung cancer
+H19	Medulloblastoma
+H19	melanoma
+H19	Meningioma
+H19	Mullerian aplasia
+H19	myeloproliferative polycythaemia vera
+H19	neural tube defects
+H19	neuroblastoma
+H19	obesity
+H19	ovarian cancer
+H19	pheochromocytoma
+H19	Pituitary adenoma
+H19	Prader-Willi syndrome
+H19	pre-eclampsia
+H19	prostate
+H19	Silver-Russell syndrome
+H19	trophoblastic tumor
+H19	tumor
+H19	Wilms' tumor
+H19	coronary artery disease
+HA117	Hirschsprung's disease
+HAR1A	Alzheimer's disease
+HAR1A	Huntington's disease
+HAR1A	Schizophrenia
+HAR1B	Alzheimer's disease
+HAR1B	Huntington's disease
+HAR1B	Schizophrenia
+HCP5	AIDS
+HEIH	hepatocellular carcinoma
+HELLPAR	extravillous trophoblast
+HIF1A-AS1	kidney cancer
+HIF1A-AS1	renal carcinoma
+HIF1A-AS1	cardiovascular disease
+HIF1A-AS2	kidney cancer
+HIF1A-AS2	acute myocardial infarction
+HI-LNC25	type 2 Diabetes
+HLA-AS1	AIDS
+HLA-AS1	liver injury
+HLA-AS1	multiple sclerosis
+HLA-AS1	psoriasis
+HNF1A-AS1	adenocarcinoma
+HNF1A-AS1	esophageal adenocarcinoma
+HOST2	epithelial ovarian cancer
+HOTAIR	B-cell neoplasms
+HOTAIR	breast cancer
+HOTAIR	cancer
+HOTAIR	cervical cancer
+HOTAIR	colon cancer
+HOTAIR	colorectal cancer
+HOTAIR	endometrial cancer
+HOTAIR	epithelial ovarian cancer
+HOTAIR	Esophageal squamous cell carcinoma
+HOTAIR	gastric cancer
+HOTAIR	gastrointestinal cancer
+HOTAIR	hepatocellular carcinoma
+HOTAIR	laryngeal squamous carcinoma
+HOTAIR	liver cancer
+HOTAIR	lung adenocarcinoma
+HOTAIR	lung cancer
+HOTAIR	nasopharyngeal carcinoma
+HOTAIR	non-small cell lung cancer
+HOTAIR	oral squamous carcinoma
+HOTAIR	pancreas cancer
+HOTAIR	rheumatoid arthritis
+HOTAIR	small cell lung cancer
+HOTAIR	tumor
+HOTAIR	renal carcinoma
+HOTTIP	hepatocellular carcinoma
+HTTAS	Huntington's disease
+HULC	hepatic colorectal metastasis
+HULC	hepatocellular carcinoma
+HULC	liver cancer
+HYMAI	transient neonatal Diabetes mellitus
+IFNG-AS1	multiple sclerosis
+IGF2-AS	hepatocellular carcinoma
+IGF2-AS	prostate
+IGF2-AS	type 1 Diabetes
+IGF2-AS	Wilms' tumor
+IPW	Prader-Willi syndrome
+Kcna2-AS	neuropathic pain
+KCNQ1DN	aging
+KCNQ1DN	Wilms' tumor
+KCNQ1OT1	Beckwith-Wiedemann syndrome
+KCNQ1OT1	colorectal cancer
+KCNQ1OT1	hepatocellular carcinoma
+KCNQ1OT1	kidney cancer
+KCNQ1OT1	acute myocardial infarction
+KRASP1	cancer
+KUCG1	Duchenne muscular dystrophy
+LALR	hepatocellular carcinoma
+LDMAR	photoperiod-sensitive male sterility
+LINC00032	melanoma
+LINC00162	narcolepsy
+LINC00271	Schizophrenia
+LINC00271	type 2 Diabetes
+LINC00299	Intellectual and developmental disability
+LINC00312	nasopharyngeal carcinoma
+Linc00963	prostate
+LINC01133	lung squamous carcinoma
+LINC01262	Parkinson's disease
+LINCMD1	Duchenne muscular dystrophy
+linc-POU3F3	glioma
+LincRNA-p21	lung cancer
+LincRNA-p21	colorectal cancer
+LincRNA-p21	p53-associated pathological states
+LincRNA-p21	tumor
+LincRNA-p21	atherosclerosis
+lincRNA-RoR	triple-negative breast cancer
+LIPCAR	Heart Failure
+lnc-AL355149.1-1	nasopharyngeal carcinoma
+lnc-C22orf32-1	nasopharyngeal carcinoma
+lnc-KCTD6-3	Head and neck squamous carcinoma
+lnc-LCE5A-1	Head and neck squamous carcinoma
+lncRNA-ATB	hepatocellular carcinoma
+lncRNA-ATB	colorectal cancer
+LncRNA-LALR1	liver cancer
+lncRNA-MVIH	hepatocellular carcinoma
+lncRNA-MVIH	non-small cell lung cancer
+lnc-SCA7	spinocerebellar ataxia type 7
+lnc-ZNF674-1	nasopharyngeal carcinoma
+LOC389023	psychiatric disease
+Loc554202	breast cancer
+LOC728228	lung cancer
+LOC728606	prostate
+LSINCT5	breast cancer
+LSINCT5	ovarian cancer
+LSINCT5	gastric cancer
+LSINCT5	colorectal cancer
+MALAT1	B-cell neoplasms
+MALAT1	breast cancer
+MALAT1	cancer
+MALAT1	cervical cancer
+MALAT1	colon cancer
+MALAT1	colorectal cancer
+MALAT1	decreased myogenesis
+MALAT1	Diabetes
+MALAT1	endometrial cancer
+MALAT1	gallbladder cancer
+MALAT1	hepatocellular carcinoma
+MALAT1	kidney cancer
+MALAT1	laryngeal squamous carcinoma
+MALAT1	liver cancer
+MALAT1	lung adenocarcinoma
+MALAT1	lung cancer
+MALAT1	nasopharyngeal carcinoma
+MALAT1	neuroblastoma
+MALAT1	non-small cell lung cancer
+MALAT1	osteosarcoma
+MALAT1	pancreas cancer
+MALAT1	prostate
+MALAT1	small cell lung cancer
+MALAT1	TDP-43-associated pathological states
+MALAT1	tumor
+MALAT1	uterus cancer
+MALAT1	glioblastoma
+MALAT1	renal cell carcinoma
+MALAT1	multiple myeloma
+MALAT1	Diabetes mellitus
+MALAT1	acute myocardial infarction
+MALAT2	gastric cancer
+MAP3K14	Pancreatic ductal adenocarcinoma
+MEG3	acute myeloid leukemia
+MEG3	breast cancer
+MEG3	cancer
+MEG3	chronic myeloid leukemia
+MEG3	colon cancer
+MEG3	gastric cancer
+MEG3	glioma
+MEG3	hepatocellular carcinoma
+MEG3	heroin abuse
+MEG3	Huntington's disease
+MEG3	kidney cancer
+MEG3	lung cancer
+MEG3	Meningioma
+MEG3	myelodysplastic syndrome
+MEG3	neuroblastoma
+MEG3	nonfunctioning pituitary adenomas
+MEG3	Pituitary adenoma
+MEG3	prostate
+MEG3	tumor
+MEG3	type 1 Diabetes
+MESTIT1	Silver-Russell syndrome
+MIAT	cancer
+MIAT	drug abuse
+MIAT	heroin abuse
+MIAT	myocardial infarction
+MIAT	Schizophrenia
+MIAT	acute myocardial infarction
+MINA	Esophageal squamous cell carcinoma
+MINA	gastric cancer
+MINA	hepatocellular carcinoma
+MINA	lung cancer
+MIR100HG	myopia
+MIR155HG	chronic lymphocytic leukemia
+MIR17HG	cancer
+MIR17HG	lymphoma
+MIR17HG	syndromic developmental defect
+miR-21	laryngeal squamous carcinoma
+MIR31HG	breast cancer
+MIR7-3HG	hepatocellular carcinoma
+MKRN3-AS1	Prader-Willi syndrome
+MRAK052686	Nonalcoholic fatty liver disease
+MYCNOS	neuroblastoma
+NAMA	papillary thyroid carcinoma
+NBAT1	neuroblastoma
+NDM29	neuroblastoma
+NEAT1	infertility
+NEAT1	AIDS
+NEAT1	amyotrophic lateral sclerosis
+NEAT1	frontotemporal lobar degeneration
+NEAT1	Huntington's disease
+NEAT1	Intrauterine Growth Restriction
+NEAT1	TDP-43-associated pathological states
+NEAT1	oral squamous carcinoma
+NPPA-AS1	cardiovascular disease
+NPTN-IT1	tumor
+NPTN-IT1	colorectal cancer
+NPTN-IT1	hepatocellular carcinoma
+NPTN-IT1	squamous-cell lung carcinomas
+NRON	Down's syndrome
+NRON	AIDS
+PAN	Kaposi's sarcoma
+PANDAR	p53-associated pathological states
+PANDAR	cancer
+PCA3	prostate
+PCA3	prostate cancer
+PCAT1	cancer
+PCAT1	prostate
+PCAT29	prostate cancer
+PCAT29	bladder cancer
+PCAT29	low-grade gliomas
+PCAT29	lung adenocarcinoma
+PCAT29	stomach adenocarcinoma
+PCAT29	renal clear cell carcinoma
+PCAT29	hepatocellular carcinoma
+PCAT29	skin melanoma
+PCGEM1	prostate
+PCGEM1	prostate cancer
+PCNA-AS1	tumor
+PCNCR1	prostate
+PDZRN3-AS1	type 2 Diabetes
+Pex11b	cardiovascular and renal disease
+PINC	breast cancer
+PINK1-AS	glucose metabolism disorder
+PINK1-AS	Parkinson's disease
+PISRT1	blepharophimosis syndrome
+PPP3CB	Pancreatic ductal adenocarcinoma
+PRINS	psoriasis
+PRNCR1	prostate
+PSORS1C3	psoriasis
+PTCSC3	papillary thyroid carcinoma
+PTENpg1	cancer
+PTENpg1	prostate
+PTENpg1	tumor
+PTHLH	brachydactyly
+PVT1	breast cancer
+PVT1	Burkitt's lymphomas
+PVT1	cancer
+PVT1	cleft lip
+PVT1	diabetic nephropathy
+PVT1	Hodgkin's lymphoma
+PVT1	lymphoma
+PVT1	ovarian cancer
+PVT1	pancreas cancer
+PVT1	prostate
+PVT1	renal carcinoma
+PVT1	type 1 Diabetes
+PVT1	type 2 Diabetes
+PVT1	gastric cancer
+PVT1	hepatocellular carcinoma
+REST/CoREST-regulated lncRNAs	Huntington's disease
+RMST	rhabdomyosarcoma
+RNA polymerase III-dependent lncRNAs	Diffuse cerebral hypomyelination with cerebellar atrophy and hypoplasia of the corpus callosum
+RNA-a	Opitz-Kaveggia syndrome
+RNase MRP	Cartilage Hair Hypoplaisia
+RP1-179N16.3	nasopharyngeal carcinoma
+RP4-620F22.3	enterovirus 74 infection
+RP5-833A20.1	atherosclerosis
+RP5-843L14.1	enterovirus 73 infection
+RRP1B	cancer
+RUNXOR	hematopoietic malignancies
+SCAANT1	spinocerebellar ataxia type 7
+Scarb2	Heart Failure
+SCHLAP1	prostate
+SCHLAP1	prostate cancer
+Sema3g	ischemia/reperfusion
+SLC7A2-IT1A/B	Progressive encephalopathy with severe infantile anorexia
+SNHG11	obesity
+SNHG16	bladder cancer
+SNHG16	colorectal cancer
+SNHG16	neuroblastoma
+SNHG3	Alzheimer's disease
+SNHG4	myelodysplastic syndrome
+SNHG5	lymphoma
+SOX2-OT	Esophageal squamous cell carcinoma
+SOX2-OT	Alzheimer's disease
+SOX2-OT	Neurodevelopmental syndromes associated with the SOX2 locus
+Sox4	ischemia/reperfusion
+Sp5	cardiovascular and renal disease
+SPRY4-IT1	Esophageal squamous cell carcinoma
+SPRY4-IT1	melanoma
+SPRY4-IT1	gastric cancer
+SRA1	breast cancer
+SRA1	cardiomyopathy
+SRA1	Human Dilated Cardiomyopathy
+SRA1	ovarian cancer
+SRA1	uterus cancer
+Srsf9	ischemia/reperfusion
+SUMO1P3	gastric cancer
+TARID	cancer
+TC0100223	cancer
+TC0101441	cancer
+TC0101686	cancer
+TCL6	leukemia
+TCL6	lymphoma
+TDRG1	testicular cancer
+TERC	dyskeratosis congenita
+TERC	prostate
+THRIL	Kawasaki disease
+TINCR	squamous carcinoma
+TINCR	gastric cancer
+TRAF3IP2-AS1	Schizophrenia
+Trpm3	Heart Failure
+T-UCRs	neuroblastoma
+TUG1	B-cell neoplasms
+TUG1	bladder cancer
+TUG1	Huntington's disease
+TUG1	non-small cell lung cancer
+TUSC7	Esophageal squamous cell carcinoma
+TUSC7	gastric cancer
+TUSC7	osteosarcoma
+TUSC8	cervical cancer
+U1 spliceosomal lncRNA	Parkinson's disease
+UBE3A-AS11	Angelman syndrome
+UBE3A-AS11	Prader-Willi syndrome
+UCA1	bladder cancer
+UCA1	oral squamous carcinoma
+UCA1	pancreaticobiliary maljunction
+UCA1	squamous carcinoma
+UCA1	tongue squamous carcinomas
+UCA1	tumor
+UCA1	gastric cancer
+UCA1	hepatocellular carcinoma
+UCA1	carcinoma of the urinary bladder
+UCHL1-AS	Parkinson's disease
+WNT4	endometriosis
+WRAP53	cancer
+WRAP53	dyskeratosis congenita
+WT1-AS	acute myeloid leukemia
+WT1-AS	Wilms' tumor
+XIST	bladder cancer
+XIST	breast cancer
+XIST	cancer
+XIST	female cancers
+XIST	Klinefelter's syndrome
+XIST	testicular cancer
+XIST	membranous nephropathy
+XLOC_000620	H. pylori-related diseases
+XLOC_004122	H. pylori-related diseases
+XLOC_004562	H. pylori-related diseases
+XLOC_005912	H. pylori-related diseases
+XLOC_014388	H. pylori-related diseases
+Yiya	cancer
+ZFAT-AS1	autoimmune disease
+Zim3	Heart Failure
+ZNFX1-AS1	breast cancer
+ZNFX1-AS1	ductal carcinoma
