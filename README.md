@@ -1,6 +1,6 @@
 License
 =========
-Copyright (C) 2017 Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
+Copyright (C) 2018 Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
